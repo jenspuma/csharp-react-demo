@@ -17,4 +17,3 @@ docs/                 Architecture and project notes
 ## First milestone
 
 Build, test, and deploy a minimal end-to-end application where the React frontend displays a message returned by the C# API.
-
